@@ -37,7 +37,7 @@ Ability to communicate with artists and programmers|x|x|x|x|
 Ability to invent/incorporate useful technologies|x|x|x|x|
 Efficient use of resources|x|x|x|x|
 Advice provided|x|x|x|x|
-SKILLS AND KNOWLEDGE|||||
+**SKILLS AND KNOWLEDGE**|||||
 "Understanding and proficiency in using 3D graphics software such as 3DSMAX, MAYA, particularly on an advanced scripting level"|x|x|x|x|
 Ability to research and explore a variety of graphics systems and middleware packages to determine both restrictions and capabilities.|x|x|x|x|
 Must have a well-developed creative background and sensitivity to increasing creative control within technical structures|x|x|x|x|
